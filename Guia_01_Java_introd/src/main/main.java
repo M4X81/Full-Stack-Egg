@@ -89,6 +89,8 @@ queramos.
 //int age= (int)(Math.random() * 100 ) + 1;
 //        System.out.println("Nombre: " + name);
 //        System.out.println("Edad: " + age + " años.");
+
+
 //Metodos Clase String
         String name = "Max";
         String name2 = "max";
@@ -204,6 +206,7 @@ queramos.
         // ó
         System.out.println("");
         System.out.println("split: ");
+        
         for (int i = 0; i < animales.length; i++) {
             System.out.println(animales[i]);
         }
@@ -290,8 +293,10 @@ queramos.
         */
         
         System.out.println("raiz cubica: " + Math.pow(27,1.0 / 3 ));
+//aca 27 es el numero elegido, 1.0 el exponente fraccional ó inversa y 3 el indice exponencial(cubo)
+       
 
-        //floor
+//floor
         System.out.println("");
         System.out.println("floor: " + Math.floor(10.598));
     }
