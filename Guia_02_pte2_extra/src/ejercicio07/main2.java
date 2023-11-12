@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author Max
  */
-public class main2 {
+public class Main2 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in).useDelimiter("\n");
