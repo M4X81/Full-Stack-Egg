@@ -15,6 +15,8 @@ public class main {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in).useDelimiter("\n");
+        
+        System.out.println("Ingrese números del 1 al 10 para ver su equivalente en números romanos. 0 (cero) para salir ");
         int num;
 
         do {
